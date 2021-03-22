@@ -27,7 +27,7 @@ BASIC GUIDE TO THE SERVICE 1.) Use the Endpoint (predictOutcome) with POST REQUE
 2.) Open the project in the desirable IDE(Intellij or STS). 
 
 
-3.) Run the spring boot project locally.( By running the SpringBoot Application)
+3.) Run the spring boot project locally.( By running the SpringBoot Application). This can be done in INtellij or STS.
 
 
 4.) Run the ML Model API using Docker or Python.( Details mentioned in Core Requirements above)

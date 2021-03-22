@@ -70,6 +70,9 @@ So if our Json Array has two elements(2 JsonObjects) then we will have 2 Results
    "CallEnd":"16:36:04"}
    ]
 }
+
+
+
 NOTE:  IT IS VERY IMPORTANT to Run the ML Model API using Docker or Python.( Details mentioned in Core Requirements above); before hitting the above endpoint(REST API).
 7.) After sending this request; the results will be avilable in below format: It will basically let you know; if the outcome for the particular record with particular Id will be SUCESS OR FAILURE.
 [The Outcome for DataSet with Id : '2' Is Predicted that it would be a : 'SUCCESS'

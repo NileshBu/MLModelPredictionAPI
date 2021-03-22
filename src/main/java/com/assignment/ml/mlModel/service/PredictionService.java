@@ -87,7 +87,7 @@ public class PredictionService {
         headers.setContentType(MediaType.APPLICATION_JSON);
         HttpEntity<String> entity = new HttpEntity<String>(rawDataObject.toString(),headers);
         String prediction = restTemplate.postForObject(Constant.URI, entity, String.class);
-        if(prediction.equalsIgnoreCase("1")){
+        if(prediction.trim().equalsIgnoreCase("\"[1]\"")){
             return Constant.SUCCESS;
         }
         else{

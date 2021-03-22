@@ -19,7 +19,7 @@ OR
 Either of the two options mentioned above can be used to Run the ML model API.
 
 
-BASIC GUIDE TO THE SERVICE 1.) Use the Endpoint (predictOutcome) with POST REQUEST http://localhost:8080/api/predictOutcome for predicting the outcome of the Cold Call Campaign. For this follow the below mentioned steps:
+BASIC GUIDE TO THE SERVICE --> Use the Endpoint (predictOutcome) with POST REQUEST http://localhost:8080/api/predictOutcome for predicting the outcome of the Cold Call Campaign. For this follow the below mentioned steps:
 
 1.) Check out the project Or Clone the project in your local.
 

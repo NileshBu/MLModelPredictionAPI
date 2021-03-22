@@ -1,6 +1,6 @@
 # MLModelPredictionAPI
 
-URL Processor service is responsible for predicting the Sucess or Failure of the Cold Calling Campaign(For Car Insurance) using the trained Random Forest Machine Learning Model with accuracy around 84%.
+ML Model Prediction service is responsible for predicting the Sucess or Failure of the Cold Calling Campaign(For Car Insurance) using the trained Random Forest Machine Learning Model with accuracy around 84%.
 
 Use Swagger or Postman to make REST calls e.g. http://localhost:8080/api/'specific endpoint'
 
